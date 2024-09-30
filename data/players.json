@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Sachin Tendulkar",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Sk2hG-9gbPpON__LA-Zxetyl6KvhyyEwHg&s",
+    "country": "India",
+    "career_statistics": {
+      "matches": 664,
+      "runs": 34357,
+      "centuries": 100,
+      "highest_score": 248
+    },
+    "achievements": [
+      "100 international centuries",
+      "World Cup winner (2011)",
+      "Highest run-scorer in international cricket"
+    ],
+    "location": {
+      "latitude": 20.5937,
+      "longitude": 78.9629
+    }
+  },
+  {
+    "name": "Brian Lara",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321900/321985.png",
+    "country": "West Indies",
+    "career_statistics": {
+      "matches": 430,
+      "runs": 22358,
+      "centuries": 53,
+      "highest_score": 400
+    },
+    "achievements": [
+      "Highest individual score in Test cricket (400*)",
+      "Wisden Leading Cricketer in the World",
+      "ICC Hall of Fame inductee"
+    ],
+    "location": {
+      "latitude": 10.6549,
+      "longitude": -61.5019
+    }
+  },
+  {
+    "name": "Ricky Ponting",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/387700/387740.png",
+    "country": "Australia",
+    "career_statistics": {
+      "matches": 560,
+      "runs": 27483,
+      "centuries": 71,
+      "highest_score": 257
+    },
+    "achievements": [
+      "Two-time World Cup winning captain",
+      "71 international centuries",
+      "ICC Hall of Fame inductee"
+    ],
+    "location": {
+      "latitude": -42.8821,
+      "longitude": 147.3272
+    }
+  },
+  {
+    "name": "Jacques Kallis",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320300/320358.png",
+    "country": "South Africa",
+    "career_statistics": {
+      "matches": 519,
+      "runs": 25534,
+      "centuries": 62,
+      "highest_score": 224
+    },
+    "achievements": [
+      "One of the greatest all-rounders",
+      "62 international centuries",
+      "South Africa's highest run-scorer in Tests"
+    ],
+    "location": {
+      "latitude": -33.9249,
+      "longitude": 18.4241
+    }
+  },
+  {
+    "name": "Shane Warne",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlVP8G_FecM9DEVG7gaRDo8PNjNzJNF6DFg&s",
+    "country": "Australia",
+    "career_statistics": {
+      "matches": 339,
+      "wickets": 1001,
+      "best_bowling": "8/71"
+    },
+    "achievements": [
+      "Over 1000 international wickets",
+      "Wisden Leading Cricketer in the World",
+      "ICC Hall of Fame inductee"
+    ],
+    "location": {
+      "latitude": -37.8136,
+      "longitude": 144.9631
+    }
+  },
+  {
+    "name": "Muttiah Muralitharan",
+    "image": "https://static.toiimg.com/thumb/msid-103396236,width-400,resizemode-4/103396236.jpg",
+    "country": "Sri Lanka",
+    "career_statistics": {
+      "matches": 495,
+      "wickets": 1347,
+      "best_bowling": "9/51"
+    },
+    "achievements": [
+      "Highest wicket-taker in international cricket",
+      "ICC Hall of Fame inductee",
+      "Sri Lanka's leading wicket-taker"
+    ],
+    "location": {
+      "latitude": 6.9271,
+      "longitude": 79.8612
+    }
+  },
+  {
+    "name": "Virat Kohli",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CQDvcER2-SfOBDz5Uc-6LEJ03voQVSKj8A&s",
+    "country": "India",
+    "career_statistics": {
+      "matches": 500,
+      "runs": 25000,
+      "centuries": 76,
+      "highest_score": 254
+    },
+    "achievements": [
+      "Fastest to 8,000, 9,000, 10,000 ODI runs",
+      "World Cup winner (2011)",
+      "76 international centuries"
+    ],
+    "location": {
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    }
+  },
+  {
+    "name": "AB de Villiers",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316555.1.png",
+    "country": "South Africa",
+    "career_statistics": {
+      "matches": 420,
+      "runs": 20014,
+      "centuries": 47,
+      "highest_score": 278
+    },
+    "achievements": [
+      "Fastest ODI century (31 balls)",
+      "Three-time ICC ODI Player of the Year",
+      "One of the most innovative cricketers"
+    ],
+    "location": {
+      "latitude": -25.7479,
+      "longitude": 28.2293
+    }
+  },
+  {
+    "name": "Wasim Akram",
+    "image": "https://images.indianexpress.com/2021/05/wasim-akram-reuters.jpg",
+    "country": "Pakistan",
+    "career_statistics": {
+      "matches": 460,
+      "wickets": 916,
+      "best_bowling": "7/119"
+    },
+    "achievements": [
+      "Over 900 international wickets",
+      "World Cup winner (1992)",
+      "Master of reverse swing bowling"
+    ],
+    "location": {
+      "latitude": 31.5497,
+      "longitude": 74.3436
+    }
+  },
+  {
+    "name": "Glenn McGrath",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_fv1sHj1IXhMQDP-ECpRIaFbIQUZ98BtJw&s",
+    "country": "Australia",
+    "career_statistics": {
+      "matches": 376,
+      "wickets": 949,
+      "best_bowling": "8/24"
+    },
+    "achievements": [
+      "Three-time World Cup winner",
+      "Most wickets by a fast bowler in Tests",
+      "ICC Hall of Fame inductee"
+    ],
+    "location": {
+      "latitude": -33.8688,
+      "longitude": 151.2093
+    }
+  },
+  {
+    "name": "Kumar Sangakkara",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316500.png",
+    "country": "Sri Lanka",
+    "career_statistics": {
+      "matches": 594,
+      "runs": 28016,
+      "centuries": 63,
+      "highest_score": 319
+    },
+    "achievements": [
+      "63 international centuries",
+      "Wisden Cricketer of the Year",
+      "ICC Hall of Fame inductee"
+    ],
+    "location": {
+      "latitude": 6.9271,
+      "longitude": 79.8612
+    }
+  },
+  {
+    "name": "MS Dhoni",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFUx-9c2FS0Flj2pcoApdrBnNW17cXl51Fw&s",
+    "country": "India",
+    "career_statistics": {
+      "matches": 538,
+      "runs": 17092,
+      "centuries": 16,
+      "highest_score": 183
+    },
+    "achievements": [
+      "World Cup winner (2007 T20, 2011 ODI)",
+      "Captain of the ICC Test and ODI Teams",
+      "Most successful Indian captain"
+    ],
+    "location": {
+      "latitude": 23.3441,
+      "longitude": 85.3096
+    }
+  },
+  {
+    "name": "Viv Richards",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30pST9OiXgiZ7fHpBJ6JlyzOBsxldyAtE9w&s",
+    "country": "West Indies",
+    "career_statistics": {
+      "matches": 308,
+      "runs": 15261,
+      "centuries": 35,
+      "highest_score": 291
+    },
+    "achievements": [
+      "Two-time World Cup winner",
+      "Dominated fast bowling without a helmet",
+      "Wisden Leading Cricketer of the Year"
+    ],
+    "location": {
+      "latitude": 17.1274,
+      "longitude": -61.8468
+    }
+  }
+]

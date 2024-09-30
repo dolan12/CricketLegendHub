@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fan Zone - Cricket Legends Hub</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Fan Zone</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="players.html">Player Profiles</a>
+            <a href="topmatch.html">Top Matches</a>
+        </nav>
+    </header>
+    <div id="votingSection">
+        <h2>Vote for Your Favorite Player</h2>
+        <form id="votingForm">
+            <ul id="playerList">
+                <li>
+                    <input type="radio" name="player" value="Sachin Tendulkar" id="player1">
+                    <label for="player1">Sachin Tendulkar</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Brian Lara" id="player2">
+                    <label for="player2">Brian Lara</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Ricky Ponting" id="player3">
+                    <label for="player3">Ricky Ponting</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Jacques Kallis" id="player4">
+                    <label for="player4">Jacques Kallis</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Shane Warne" id="player5">
+                    <label for="player5">Shane Warne</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Muttiah Muralitharan" id="player6">
+                    <label for="player6">Muttiah Muralitharan</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Virat Kohli" id="player7">
+                    <label for="player7">Virat Kohli</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="AB de Villiers" id="player8">
+                    <label for="player8">AB de Villiers</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Wasim Akram" id="player9">
+                    <label for="player9">Wasim Akram</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Glenn McGrath" id="player10">
+                    <label for="player10">Glenn McGrath</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="MS Dhoni" id="player11">
+                    <label for="player11">MS Dhoni</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Kumar Sangakkara" id="player12">
+                    <label for="player12">Kumar Sangakkara</label>
+                </li>
+                <li>
+                    <input type="radio" name="player" value="Viv Richards" id="player13">
+                    <label for="player13">Viv Richards</label>
+                </li>
+            </ul>
+            <button type="button" id="submitVote" onclick="submitvote()">Submit Vote</button>
+        </form>
+        <div id="thankYouMessage" style="display:none;">Thank you for voting!</div>
+    </div>
+    <script src="js/fanzone.js"></script>
+</body>
+
+</html>
